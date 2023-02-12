@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/qinlong/studydata/OpenCV3/src/Chapter02/build",
+  "command": "/usr/bin/c++   -isystem /usr/local/include/opencv  -g   -o CMakeFiles/draw.dir/draw.cpp.o -c /home/qinlong/studydata/OpenCV3/src/Chapter02/draw.cpp",
+  "file": "/home/qinlong/studydata/OpenCV3/src/Chapter02/draw.cpp"
+}
+]

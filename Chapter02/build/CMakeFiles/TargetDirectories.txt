@@ -1,0 +1,3 @@
+/home/qinlong/studydata/OpenCV3/src/Chapter02/build/CMakeFiles/rebuild_cache.dir
+/home/qinlong/studydata/OpenCV3/src/Chapter02/build/CMakeFiles/edit_cache.dir
+/home/qinlong/studydata/OpenCV3/src/Chapter02/build/CMakeFiles/draw.dir
