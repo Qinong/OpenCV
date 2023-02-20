@@ -1,0 +1,4 @@
+/home/qinlong/studydata/OpenCV3/src/Chapter03/build/CMakeFiles/rebuild_cache.dir
+/home/qinlong/studydata/OpenCV3/src/Chapter03/build/CMakeFiles/edit_cache.dir
+/home/qinlong/studydata/OpenCV3/src/Chapter03/build/CMakeFiles/scan.dir
+/home/qinlong/studydata/OpenCV3/src/Chapter03/build/CMakeFiles/noise.dir
