@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/home/qinlong/studydata/OpenCV3/src/Chapter04/build",
+  "command": "/usr/bin/c++   -isystem /usr/local/include/opencv  -g   -o CMakeFiles/remapping.dir/remapping.cpp.o -c /home/qinlong/studydata/OpenCV3/src/Chapter04/remapping.cpp",
+  "file": "/home/qinlong/studydata/OpenCV3/src/Chapter04/remapping.cpp"
+},
+{
+  "directory": "/home/qinlong/studydata/OpenCV3/src/Chapter04/build",
+  "command": "/usr/bin/c++   -isystem /usr/local/include/opencv  -g   -o CMakeFiles/setadd.dir/setadd.cpp.o -c /home/qinlong/studydata/OpenCV3/src/Chapter04/setadd.cpp",
+  "file": "/home/qinlong/studydata/OpenCV3/src/Chapter04/setadd.cpp"
+},
+{
+  "directory": "/home/qinlong/studydata/OpenCV3/src/Chapter04/build",
+  "command": "/usr/bin/c++   -isystem /usr/local/include/opencv  -g   -o CMakeFiles/addImages.dir/addImages.cpp.o -c /home/qinlong/studydata/OpenCV3/src/Chapter04/addImages.cpp",
+  "file": "/home/qinlong/studydata/OpenCV3/src/Chapter04/addImages.cpp"
+}
+]
