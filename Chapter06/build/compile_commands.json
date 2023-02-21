@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/qinlong/studydata/OpenCV3/src/Chapter06/build",
+  "command": "/usr/bin/c++   -isystem /usr/local/include/opencv  -g   -o CMakeFiles/extractObject.dir/extractObject.cpp.o -c /home/qinlong/studydata/OpenCV3/src/Chapter06/extractObject.cpp",
+  "file": "/home/qinlong/studydata/OpenCV3/src/Chapter06/extractObject.cpp"
+}
+]
