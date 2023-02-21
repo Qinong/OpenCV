@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/qinlong/studydata/OpenCV3/src/Chapter05/build",
+  "command": "/usr/bin/c++   -isystem /usr/local/include/opencv  -g   -o CMakeFiles/colorDetection.dir/colorDetection.cpp.o -c /home/qinlong/studydata/OpenCV3/src/Chapter05/colorDetection.cpp",
+  "file": "/home/qinlong/studydata/OpenCV3/src/Chapter05/colorDetection.cpp"
+},
+{
+  "directory": "/home/qinlong/studydata/OpenCV3/src/Chapter05/build",
+  "command": "/usr/bin/c++   -isystem /usr/local/include/opencv  -g   -o CMakeFiles/colorDetection.dir/colordetector.cpp.o -c /home/qinlong/studydata/OpenCV3/src/Chapter05/colordetector.cpp",
+  "file": "/home/qinlong/studydata/OpenCV3/src/Chapter05/colordetector.cpp"
+}
+]
